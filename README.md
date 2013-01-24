@@ -1,2 +1,3 @@
 flashhiddengame
-===============Be benim ilk dosyam
+===============Bu benim ilk dosyam
+Test 1
